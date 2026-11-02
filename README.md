@@ -34,7 +34,7 @@ A 3D Art Project in Unity 3D Game Engine. Made in 2023
 
 
 
-![App Screenshot](Pictures/Roses 2.png)
+![App Screenshot](Pictures/Roses_2.png)
 
 
 
